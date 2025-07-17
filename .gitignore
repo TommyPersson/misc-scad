@@ -1,0 +1,7 @@
+*.stl
+
+.idea/
+*.iml
+
+out/
+target/
