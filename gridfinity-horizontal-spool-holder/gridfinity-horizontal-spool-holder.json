@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "360",
+            "base_height_gfus": "2",
+            "base_margin": "20",
+            "base_tolerance": "0.5",
+            "num_spools": "6",
+            "spine_diameter": "16",
+            "spine_height": "40",
+            "spine_leg_thickness": "10",
+            "spine_legs_inset": "10",
+            "spool_base_offset": "20",
+            "spool_diameter": "56",
+            "spool_margin": "10",
+            "spool_spacing": "2",
+            "spool_thickness": "33",
+            "wire_ring_hole_diameter": "5",
+            "wire_ring_thickness": "5",
+            "wire_ring_width": "15"
+        }
+    }
+}
